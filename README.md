@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DSA
+- 🔭 I’m currently working on DSA.
 - 🌱 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on DSA Projects and Open Source Projects
 - 🤔 I’m looking for help with leraning DSA and how to colaborate with Open_Source Projects
